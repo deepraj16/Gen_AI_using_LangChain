@@ -1,0 +1,4 @@
+#install the following libary 
+
+pip install langchain # -- version 0.3.25 
+pip install 
